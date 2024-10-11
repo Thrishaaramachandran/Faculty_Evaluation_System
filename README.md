@@ -13,3 +13,7 @@ Feedback System: Allowing students to provide anonymous comments for qualitative
 Faculty Evaluation System is organized into three primary modules—Admin, Faculty, and Student—along with a User submodule. The Admin module has full authority to manage system components, including adding new faculty members, students, evaluation criteria, and users. The User submodule has similar privileges to the Admin, enabling broader administrative support. Faculty members can view their evaluation reports to track performance, while Students are empowered to provide feedback based on predefined criteria. This modular design ensures clear role-based access, supporting a streamlined, efficient faculty evaluation process.
 
 The system is likely implemented with a frontend for students to access and fill out evaluations, as well as an admin interface for faculty and administrators to review reports. This project ultimately aims to enhance teaching quality by giving instructors actionable insights based on structured feedback.
+
+Login Credientals : 
+Email    : admin@admin.com
+Password : admin123
